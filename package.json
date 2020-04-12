@@ -1,0 +1,22 @@
+{
+  "name": "epistle",
+  "version": "1.0.0",
+  "description": "SMS Text Messages",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "karokojnr",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "nexmo": "^2.6.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
