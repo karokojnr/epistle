@@ -13,7 +13,7 @@
     "ejs": "^3.0.2",
     "express": "^4.17.1",
     "nexmo": "^2.6.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "chalk": "^4.0.0",
